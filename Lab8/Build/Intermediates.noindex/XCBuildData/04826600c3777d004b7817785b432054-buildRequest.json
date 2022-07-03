@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "39b7ab6f2189de88bce7a151bc8b8e4dbc5e6d36f7fa1c2d541a55d233bcf1cb"
+    }
+  ],
+  "containerPath" : "/Users/timocruz/Desktop/БГУИР/ОАиП/Lab6/Lab6.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/timocruz/Desktop/БГУИР/ОАиП/Lab6/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/timocruz/Desktop/БГУИР/ОАиП/Lab6/Build/Products",
+      "derivedDataPath" : "/Users/timocruz/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/timocruz/Library/Developer/Xcode/DerivedData/Lab6-dvudgnzzfnlqnyctobavctegouoy/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/timocruz/Library/Developer/Xcode/DerivedData/Lab6-dvudgnzzfnlqnyctobavctegouoy/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/timocruz/Desktop/БГУИР/ОАиП/Lab6/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
